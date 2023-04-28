@@ -1,0 +1,7 @@
+.container {
+  @apply tw-w-[400px] tw-h-[400px] tw-mx-auto;
+
+  .title {
+    @apply tw-text-2xl tw-px-2 tw-py-2 tw-text-red-300;
+  }
+}
